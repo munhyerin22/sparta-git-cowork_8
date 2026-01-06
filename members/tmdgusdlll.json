@@ -1,0 +1,67 @@
+{
+  "id": "member4",
+  "name": "이승현",
+  "subName": "백엔드 개발자",
+  "profileImage": "image/profile_image.png",
+  "introduction": {
+    "quote": "Java와 Spring를\n잘 다루고 싶은 개발자되고싶어요.",
+    "detail": "Java와 Spring을 주로 사용하며, 안정적인 서버를 다루고싶습니다."
+  },
+  "info": {
+    "description": "Java와 Spring을 활용하여 백엔드 개발을 학습하고 있습니다.",
+    "birthday": "2001.12.24",
+    "location": "경기도 수원시",
+    "email": "leesh27955@gamil.com",
+    "phone": "010-6272-2795"
+  },
+  "strengths": [
+    "통찰력",
+    "실행력",
+    "팀워크"
+  ],
+  "skills": [
+    { "name": "Java", "progress": 50 },
+    { "name": "SQL", "progress": 50 },
+    { "name": "Spring", "progress": 50 },
+    { "name": "React", "progress": 50 },
+    { "name": "Node.js", "progress": 50 }
+  ],
+  "licenses": [
+    "ADsP"
+
+  ],
+  "education": [
+    {
+      "name": " 멋진고등학교",
+      "period": "2012.03.02 ~ 2015.02.14",
+      "location": "멋진 곳"
+    },
+    {
+      "name": "더 멋진 대학교",
+      "period": "2020.02.02 ~ 2026.02.24",
+      "gpa": "3.9",
+      "location": "더 멋진 곳"
+    }
+  ],
+  "experience": [
+    {
+      "period": "100년",
+      "company": "대기업가고싶다..",
+      "term": "2020.01~2026.01",
+      "team": "개발팀, 주니어 개발자",
+      "task": "웹 개발",
+      "project": {
+        "name": "라이브 커머스 플랫폼 개발",
+        "term": "2021.06~2022.03",
+        "detail": "모든 언어, 프레임워크를 사용해 라이브 커머스 플랫폼 개발"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "로그인 로직 구현하기",
+      "description": "개인 능력 점검을 위하여 로그인 로직 구현해봄"
+    }
+  ]
+}
+
