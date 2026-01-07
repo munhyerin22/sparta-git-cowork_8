@@ -1,16 +1,16 @@
 {
   "id": "member2",
-  "name": "이백엔드",
+  "name": "문백엔드",
   "subName": "백엔드 개발자",
   "profileImage": "image/profile_image.png",
   "introduction": {
     "quote": "안정적인 서버를 구축하는\n백엔드 개발자입니다.",
-    "detail": "확장 가능하고 안정적인 백엔드 시스템을 설계하고 구현하는 것을 전문으로 합니다. Node.js와 Python을 활용하여 효율적인 API 서버를 개발하고 있습니다. 데이터베이스 최적화와 시스템 아키텍처에 관심이 많습니다."
+    "detail": "블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라블라"
   },
   "info": {
-    "description": "Node.js와 Python을 활용하여 백엔드 개발을 하고 있습니다.",
-    "birthday": "1997.07.15",
-    "location": "서울시 서초구",
+    "description": "Spring과 Java를 활용하여 백엔드 개발을 하고 있습니다.",
+    "birthday": "2002.02.22",
+    "location": "서울시 노원구",
     "email": "member2@example.com",
     "phone": "010-2222-2222"
   },
@@ -20,34 +20,35 @@
     "빠른 일처리"
   ],
   "skills": [
-    { "name": "Python", "progress": 90 },
-    { "name": "Node.js", "progress": 85 },
-    { "name": "JavaScript", "progress": 80 },
-    { "name": "MySQL", "progress": 75 },
-    { "name": "MongoDB", "progress": 70 }
+    { "name": "Java", "progress": 20 },
+    { "name": "Node.js", "progress": 0 },
+    { "name": "Spring", "progress": 0 },
+    { "name": "MySQL", "progress": 10 },
+    { "name": "CAD", "progress": 80 }
   ],
   "licenses": [
-    "AWS 자격증",
-    "정보처리기사"
+    "네트워크 관리사",
+    "전기기능사",
+    "운전면허"
   ],
   "education": [
     {
-      "name": "스파르타 고등학교",
-      "period": "2013.03.02 ~ 2016.02.14",
-      "location": "서울시 서초구"
+      "name": "마이스터 고등학교",
+      "period": "2018.03.02 ~ 2021.02.14",
+      "location": "경기도"
     },
     {
       "name": "스파르타 대학교",
-      "period": "2016.03.02 ~ 2020.02.20",
-      "gpa": "3.8",
-      "location": "서울시 서초구"
+      "period": "2024.03.02 ~",
+      "gpa": "4.3",
+      "location": "서울시 노원구"
     }
   ],
   "experience": [
     {
-      "period": "1년 6개월",
-      "company": "클라우드 서비스 회사",
-      "term": "2021.07~2023.01",
+      "period": "3년",
+      "company": "중소기업",
+      "term": "2020.12~2023.12",
       "team": "백엔드팀, 주니어 개발자",
       "task": "RESTful API 개발 및 데이터베이스 관리",
       "project": {
@@ -66,4 +67,3 @@
     }
   ]
 }
-
