@@ -1,6 +1,6 @@
 {
   "id": "member3",
-  "name": "박디자인",
+  "name": "정호진",
   "subName": "UI/UX 디자이너",
   "profileImage": "image/profile_image.png",
   "introduction": {
@@ -9,8 +9,8 @@
   },
   "info": {
     "description": "Figma와 Adobe XD를 활용하여 UI/UX 디자인을 하고 있습니다.",
-    "birthday": "1999.11.08",
-    "location": "서울시 마포구",
+    "birthday": "1998.09.17",
+    "location": "인천광역시 서구",
     "email": "member3@example.com",
     "phone": "010-3333-3333"
   },

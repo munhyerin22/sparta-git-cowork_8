@@ -1,6 +1,6 @@
 {
   "id": "member1",
-  "name": "김개발",
+  "name": "이중현",
   "subName": "프론트엔드 개발자",
   "profileImage": "image/profile_image.png",
   "introduction": {
@@ -9,9 +9,9 @@
   },
   "info": {
     "description": "React와 TypeScript를 활용하여 프론트엔드 개발을 하고 있습니다.",
-    "birthday": "1998.03.20",
-    "location": "서울시 강남구",
-    "email": "member1@example.com",
+    "birthday": "2001.10.19",
+    "location": "서울시 중랑구",
+    "email": "leejunghyun1019@gmail.com",
     "phone": "010-1111-1111"
   },
   "strengths": [
@@ -32,12 +32,12 @@
   "education": [
     {
       "name": "스파르타 고등학교",
-      "period": "2014.03.02 ~ 2017.02.14",
+      "period": "2017.03.02 ~ 2020.02.14",
       "location": "서울시 강남구"
     },
     {
       "name": "스파르타 대학교",
-      "period": "2017.03.02 ~ 2021.02.20",
+      "period": "2020.03.02 ~ 2024.02.20",
       "gpa": "4.0",
       "location": "서울시 강남구"
     }
